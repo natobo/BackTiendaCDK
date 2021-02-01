@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to CDK TypeScript Store Project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`BackTiendaCdkStack`)
 which contains an application of a products store, it is developed to learn Infraestructure as a code (IaC).
